@@ -1,1 +1,1 @@
-shell basics tasks
+0x02. Shell, I/O Redirections and filters
